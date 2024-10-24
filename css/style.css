@@ -271,6 +271,7 @@ a {
 
 .b-not-box::before {
   content: "";
+  display: none;
   display: block;
   position: absolute;
   width: calc(100% + 30px);
