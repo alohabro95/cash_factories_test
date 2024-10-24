@@ -263,6 +263,7 @@ a {
 }
 
 .b-not-box {
+  display: none;
   margin-bottom: 20px;
   text-align: center;
   position: relative;
