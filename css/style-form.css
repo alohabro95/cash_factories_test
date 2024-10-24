@@ -286,7 +286,6 @@
   margin: -11px 0 0 0;
   content: "";
   display: block;
-  background: url(img/protectsvg.svg) no-repeat;
 }
 
 .bottom-gkk {
@@ -393,7 +392,6 @@
   font-weight: 700;
   line-height: 11px;
   align-items: center;
-  background: url(img/die-gkk1-2.svg) no-repeat;
   background-size: cover;
 }
 
@@ -404,7 +402,6 @@
   line-height: 13px;
   font-weight: 700;
   align-items: center;
-  background: url(img/die-gkk2-2-2.svg) no-repeat;
   background-size: cover;
 }
 
